@@ -512,12 +512,12 @@ h6 {
 .header-special__link:hover {
   color: #1A1A1A;
 }
-.header-special__video {
+.header-special__media {
   padding: 56.25% 0px 0px 0px;
   position: relative;
 }
-.header-special__video iframe,
-.header-special__video img {
+.header-special__media iframe,
+.header-special__media img {
   -o-object-fit: cover;
      object-fit: cover;
   width: 100%;
